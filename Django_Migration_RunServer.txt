@@ -1,3 +1,14 @@
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+
+
+# kindly make the changes in /crudexample/setting.py
+
+#(
+change host ""
+change Allow host[])
+
+#RUN docker-compose up -d
+#docker images
+#docker ps
