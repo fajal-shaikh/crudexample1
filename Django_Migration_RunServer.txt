@@ -12,3 +12,4 @@ change Allow host[])
 #RUN docker-compose up -d
 #docker images
 #docker ps
+# https://medium.com/@sayalishewale12/complete-guide-to-creating-and-pushing-docker-images-to-amazon-ecr-70b67ac1ab4c
